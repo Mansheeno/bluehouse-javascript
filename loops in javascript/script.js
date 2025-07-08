@@ -1,10 +1,7 @@
 //producing even numbers from 1 to 10 using for loop
-var even = 2;
-for (var even=2; even <= 10; even++) {
-    if (even % 2 === 0){
-        console.log(even);
-    }
-}
+for (var i = 2; i <= 10; i += 2) {
+    console.log(i);
+  }
 
 //count down from 10 to 1 using while loop
 var count = 10;
