@@ -10,8 +10,9 @@ for (var even=2; even <= 10; even++) {
 var count = 10;
 while (count >= 1){
     console.log(count);
-    count--
+    count--;
 }
+
 //do while loop that print 5 even though statement is wrong
 var x = 5;
 do {
