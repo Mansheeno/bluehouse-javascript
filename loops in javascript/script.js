@@ -2,7 +2,7 @@
 var even = 2;
 for (var even=2; even <= 10; even++) {
     if (even % 2 === 0){
-        console.log(even)
+        console.log(even);
     }
 }
 
