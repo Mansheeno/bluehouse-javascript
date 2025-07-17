@@ -32,7 +32,7 @@ var newsfeed = [
     },
     {
         username: "mary",
-        timeline: "Good afternoon everyone"
+        timeline: "Good day people"
     },
     {
         username: "daniel",
@@ -40,11 +40,11 @@ var newsfeed = [
     },
     {
         username: "sarah",
-        timeline: "Today is a good day"
+        timeline: "Today is a bad day"
     },
     {
         username: "bello",
-        timeline: "Good afternoon everyone"
+        timeline: "Good evening everyone"
     }
 ]
 
