@@ -10,7 +10,7 @@ while (count >= 1){
     count--;
 }
 
-//do while loop that print 5 even though statement is wrong
+//do while loop that print 5 even though while condition is wrong
 var x = 5;
 do {
     console.log(x);
